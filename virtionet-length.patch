@@ -1,3 +1,5 @@
+http://bugzilla.redhat.com/678789
+
 diff -up gpxe-1.0.1/src/drivers/net/virtio-net.c.framelength gpxe-1.0.1/src/drivers/net/virtio-net.c
 --- gpxe-1.0.1/src/drivers/net/virtio-net.c.framelength	2010-06-29 15:31:33.000000000 -0400
 +++ gpxe-1.0.1/src/drivers/net/virtio-net.c	2010-12-09 15:21:41.840551913 -0500
